@@ -40,7 +40,8 @@ layout: default
 | Heather Gaddy Patsolic 						        | cep | phd | [DSP137](https://github.com/DSP137) 	        |  	        |              | 
 | Tyler Tomita 									| jovo | phd | [ttomita](https://github.com/ttomita/) 	| tmtomita87 	| randomerforest, qing |   
 | Shangsi Wang 									| cep/jovo | phd | [shangsiwang](https://github.com/shangsiwang) | | reliability, joint-embedding |  
-| [Da Zheng](http://www.cs.jhu.edu/~zhengda/) 	| randal | phd | icoming 		| zhengda1936 	| flashx |  
+| [Da Zheng](http://www.cs.jhu.edu/~zhengda/) 	| randal | phd | icoming 		| zhengda1936 	| flashx |
+| Bijan Varjavand               | jovo | ugrad | [howdosheeplamp](https://github.com/howdosheeplamp) | bvarjavand | |
 
 ## Staff
 
